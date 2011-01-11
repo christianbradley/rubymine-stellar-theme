@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Beautiful" version="1" parent_scheme="Default">
+<scheme name="Stellar" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -7,6 +7,7 @@
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="202226" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="GUTTER_BACKGROUND" value="d0d0d" />
     <option name="INDENT_GUIDE" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="434859" />
