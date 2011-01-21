@@ -5,9 +5,11 @@ Installation:
 
 1. Quit Rubymine
 2. Clone the repository into a directory of your choice
-    git clone git://github.com/christianbradley/rubymine-stellar-theme.git
-    cd rubymine-stellar-theme
-    ln -s stellar.xml ~/Library/Preferences/RubyMine30/colors/stellar.xml
+
+    `git clone git://github.com/christianbradley/rubymine-stellar-theme.git`
+    `cd rubymine-stellar-theme`
+    `ln -s stellar.xml ~/Library/Preferences/RubyMine30/colors/stellar.xml`
+
 3. Restart Rubymine
 4. Select the new theme!
 
